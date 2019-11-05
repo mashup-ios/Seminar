@@ -16,6 +16,11 @@ Share Mash-Up iOS Seminar
   - 병찬 : RxSwift 살펴보기 + 이걸 MVVM에 쓴다고?
   발표자료 : [Notion 링크](https://www.notion.so/woollim/RxSwift-59081ae144bc4c33807954cb2ce36426)
   MVVM예제 : [Github 링크](https://github.com/mashup-ios/RxSwift-News)
+  
+- 11/5
+  - 가온 : 라이브러리 뜯어보기 (Kingfisher에 발을 살짝 넣었다 빼 보자)
+    - [Kingfisher 링크](https://github.com/onevcat/Kingfisher)
+    - Cache를 중점적으로 Kingfisher의 내부 구현이 어떻게 이루어졌는지 살펴 보았다.
 
 -----------------------------
 
