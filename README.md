@@ -18,6 +18,11 @@ Share Mash-Up iOS Seminar
   MVVM예제 : [Github 링크](https://github.com/mashup-ios/RxSwift-News)
   
 - 11/5
+  
+  - [현태](https://github.com/onemoonstudio) : Architecture Pattern
+    - MVC, MVP, MVVM 에 대해서 살펴보기
+    - 발표 자료 및 코드는 폴더에 있음
+  
   - 가온 : 라이브러리 뜯어보기 (Kingfisher에 발을 살짝 넣었다 빼 보자)
     - [Kingfisher 링크](https://github.com/onevcat/Kingfisher)
     - Cache를 중점적으로 Kingfisher의 내부 구현이 어떻게 이루어졌는지 살펴 보았다.
