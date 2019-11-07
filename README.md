@@ -14,8 +14,8 @@ Share Mash-Up iOS Seminar
 
 - 10/15 
   - 병찬 : RxSwift 살펴보기 + 이걸 MVVM에 쓴다고?
-  발표자료 : [Notion 링크](https://www.notion.so/woollim/RxSwift-59081ae144bc4c33807954cb2ce36426)
-  MVVM예제 : [Github 링크](https://github.com/mashup-ios/RxSwift-News)
+  - 발표자료 : [Notion 링크](https://www.notion.so/woollim/RxSwift-59081ae144bc4c33807954cb2ce36426)
+  - MVVM예제 : [Github 링크](https://github.com/mashup-ios/RxSwift-News)
   
 - 11/5
   - [현태](https://github.com/onemoonstudio) : Architecture Pattern

@@ -70,7 +70,7 @@
 ###### MVP 
 
 - Model + View + Presenter
-- Model 과 View는 MVC와 동일 ( 단 View의 책임 범위가 줄어듬 )
+- Model 과 View는 MVC와 동일 ( 단, View는 이제 액션을 받는 주체가 된다. )
 - ***Presenter*** : View에서 요청한 Model 정보를 가공하여 View에 전달해주는 부분 
   - 따라서 Model은 반드시 Presenter를 거쳐서 View로 제공이 된다.
   - 또한 Presenter는 View 의 Life Cycle 에 전혀 영향을 끼치지 않는다.
@@ -144,7 +144,7 @@
 
 ### Reference
 
-[[디자인패턴\] MVC, MVP, MVVM 비교](https://beomy.tistory.com/43)
-[MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
-[(번역) iOS 아키텍쳐 패턴들 (스압주의)](https://blog.canapio.com/43)
-[[Design Pattern\] 커맨드 패턴이란 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/07/07/command-pattern.html)
+- [[디자인패턴\] MVC, MVP, MVVM 비교](https://beomy.tistory.com/43)
+- [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
+- [(번역) iOS 아키텍쳐 패턴들 (스압주의)](https://blog.canapio.com/43)
+- [[Design Pattern\] 커맨드 패턴이란 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/07/07/command-pattern.html)
