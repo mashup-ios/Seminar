@@ -27,7 +27,10 @@ Share Mash-Up iOS Seminar
   - [현태](https://github.com/onemoonstudio) : Mash-Up iOS Rule
     - 해커톤에 앞서 우리의 즐거운 코딩을 위해 Rule을 만들어보자
     - [발표자료](https://github.com/mashup-ios/Seminar/blob/master/19.11.19_Making_Mash-Up-iOS-Rule/Mash-Up%20iOS%20Rules.md)
-
+  - [진하](https://github.com/Jinha2) : ViewController Catalog for iOS 📱
+    - 애플 문서를 토대로 Container View Controller 들에 대해 알아 봅시다!
+    - [발표자료](/19.11.19_ViewController-Catalog-For-iOS/ViewControllerCatalogForiOS.key)
+    
 -----------------------------
 
 - 발표를 맡은 사람이 직접 README 를 수정합니다.
