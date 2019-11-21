@@ -26,7 +26,7 @@ Share Mash-Up iOS Seminar
 - 11/19
   - [현태](https://github.com/onemoonstudio) : Mash-Up iOS Rule
     - 해커톤에 앞서 우리의 즐거운 코딩을 위해 Rule을 만들어보자
-    - [발표자료](./19.11.19_Making_Mash-Up-iOS-Rule/Mash-Up iOS Rules.md)
+    - [발표자료](https://github.com/mashup-ios/Seminar/blob/master/19.11.19_Making_Mash-Up-iOS-Rule/Mash-Up%20iOS%20Rules.md)
 
 -----------------------------
 
